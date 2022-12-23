@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  menampilkan teks
+  -->
+
+<resources>
+    <string name="app_name">Mars Photos</string>
+</resources>
